@@ -1,0 +1,11 @@
+# data/dataset_info.json
+{
+  "my_sft_dataset": {
+    "file_name": "my_sft_train.json",
+    "format": "alpaca"
+  },
+  "my_sft_val_dataset": {
+    "file_name": "my_sft_val.json", 
+    "format": "alpaca"
+  }
+}
